@@ -45,7 +45,7 @@
     <dependency>
       <groupId>com.untamedears</groupId>
       <artifactId>Humbug</artifactId>
-      <version>[1.5,)</version>
+      <version>[1.5.10-SNAPSHOT,)</version>
       <scope>provided</scope>
     </dependency>
   </dependencies>
